@@ -1,3 +1,14 @@
+# Introduction
+
+Hi, I'm Val and this is my reading notes page for Full-Stack MERN course with TechEducators.
+
+Some of the things I like:
+
+* Playing my guitar
+* Working out
+* Annoying my housemate's cat
+
+Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
 # Growth Mindset
 
 The growth mindset is based on the belief that your basic qualities are things you can cultivate through your efforts. Although people may differ in every which way in their initial talents and aptitudes, interests, or temperaments, everyone can change and grow through application and experience.  
