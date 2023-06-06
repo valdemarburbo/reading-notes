@@ -21,6 +21,7 @@ Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
 * [102-6](102/102-6.md)
 * [102-7](102/102-7.md)
 * [102-8](102/102-8.md)
+
 ### Code 201 Reading Notes
 * [201-1](201/201-1.md)
 * [201-2](201/201-2.md)
