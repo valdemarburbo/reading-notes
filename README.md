@@ -1,6 +1,6 @@
 # Introduction
 
-Hi, I'm Val and this is my reading notes page for Full-Stack MERN course with TechEducators.
+Hi! I'm Val and this is my reading notes page for Full-Stack MERN course with TechEducators.
 
 Some of the things I like:
 
