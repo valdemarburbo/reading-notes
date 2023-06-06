@@ -1,12 +1,2 @@
-# reading-notes
-## this is a heading
-### and a different heading
-#### and another one
-##### hey,another one too
-###### last one
-
-### Tech Ed Full Stack d5
-
-**Document Content**  
-*Document Content*  
-_**Document Conent**_  
+# Growth Mindset #  
+The growth mindset is based on the belief that your basic qualities are things you can cultivate through your efforts. Although people may differ in every which way in their initial talents and aptitudes, interests, or temperaments, everyone can change and grow through application and experience.
