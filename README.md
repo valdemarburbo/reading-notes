@@ -10,6 +10,8 @@ Some of the things I like:
 
 Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
 
+![GIF of programmer at work](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # Table of Contents
 
 ### Code 102 Reading Notes
