@@ -1,6 +1,6 @@
 # Introduction
 
-Hi, I'm Val and this is my reading notes page for Full-Stack MERN course with TechEducators.
+Hi! I'm Val and this is my reading notes page for Full-Stack MERN course with TechEducators.
 
 Some of the things I like:
 
@@ -9,6 +9,8 @@ Some of the things I like:
 * Annoying my housemate's cat
 
 Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
+
+![GIF of programmer at work](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # Table of Contents
 
@@ -21,6 +23,7 @@ Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
 * [102-6](102/102-6.md)
 * [102-7](102/102-7.md)
 * [102-8](102/102-8.md)
+
 ### Code 201 Reading Notes
 * [201-1](201/201-1.md)
 * [201-2](201/201-2.md)
