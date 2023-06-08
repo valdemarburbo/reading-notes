@@ -19,7 +19,7 @@ Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
 * [102-2 The Coder's Computer](102/102-2.md)
 * [102-3 Revisions and the Cloud](102/102-3.md)
 * [102-4 Structure Web Pages with HTML](102/102-4.md)
-* [102-5](102/102-5.md)
+* [102-5 Design Web Pages with CSS](102/102-5.md)
 * [102-6](102/102-6.md)
 * [102-7](102/102-7.md)
 * [102-8](102/102-8.md)
