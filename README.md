@@ -25,7 +25,7 @@ Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
 * [102-8 Operators and Loops](102/102-8.md)
 
 ### Code 201 Reading Notes
-* [201-1](201/201-1.md)
+* [201-1 Setup Developer Toolbelt](201/201-1.md)
 * [201-2](201/201-2.md)
 * [201-3](201/201-3.md)
 * [201-4](201/201-4.md)
