@@ -22,7 +22,7 @@ Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
 * [102-5 Design Web Pages with CSS](102/102-5.md)
 * [102-6 Dynamic Webpages with JavaScript](102/102-6.md)
 * [102-7 Programming with JavaScript](102/102-7.md)
-* [102-8](102/102-8.md)
+* [102-8 Operators and Loops](102/102-8.md)
 
 ### Code 201 Reading Notes
 * [201-1](201/201-1.md)
