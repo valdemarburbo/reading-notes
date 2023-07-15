@@ -2,15 +2,9 @@
 
 Hi! I'm Val and this is my reading notes page for Full-Stack MERN course with TechEducators.
 
-Some of the things I like:
-
-* Playing my guitar
-* Working out
-* Annoying my housemate's cat
-
 Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
 
-![GIF of programmer at work](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![GIF a of programmer at work](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # Table of Contents
 
@@ -26,7 +20,7 @@ Check out my GitHub profile [HERE](https://github.com/valdemarburbo).
 
 ### Code 201 Reading Notes
 * [201-1 Setup Developer Toolbelt](201/201-1.md)
-* [201-2](201/201-2.md)
+* [201-2 Introduction To Web Development](201/201-2.md)
 * [201-3](201/201-3.md)
 * [201-4](201/201-4.md)
 * [201-5](201/201-5.md)
